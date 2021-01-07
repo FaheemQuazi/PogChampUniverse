@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "PogChamp-Universe",
-    "version": "0.1",
-
+    "name": "PogChamp Universe",
+    "version": "1.0",
+    "description": "Replace PogChamp with people from across the universe",
     "content_scripts": [
         {
             "matches": [

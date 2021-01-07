@@ -2,10 +2,13 @@
 
 A browser extension that automatically replaces the phrase 'PogChamp' with various PogChamp-style faces from around the Universe :)
 
-Coded By Faheem "DustinKazi" - [Twitch](https://twitch.tv/dustinkazi) | [Twitter](https://twitter.com/DustinKazi) | [Instagram](https://instagram.com/dustinkazi)
+![Sample](sample.png)
+
+Coded By [Faheem "DustinKazi"](https://lksg.me/u/fdquazi)
 
 - [PogChamp Universe](#pogchamp-universe)
   - [How it Works](#how-it-works)
+    - [Make it only work when I want it!](#make-it-only-work-when-i-want-it)
   - [Who's part of that selection?](#whos-part-of-that-selection)
     - [From the Articles or Twitter feed](#from-the-articles-or-twitter-feed)
     - [Friends](#friends)
@@ -19,6 +22,15 @@ Coded By Faheem "DustinKazi" - [Twitch](https://twitch.tv/dustinkazi) | [Twitter
 ## How it Works
 
 When you install the extension, it comes with a small selection of images. Each time the extension detects the word "PogChamp" (case-insensitive) on a page, it replaces the word with one of those images. For now, it uses the standard 28x28 pixel size when replacing text.
+
+### Make it only work when I want it!
+
+Soon(tm), for now try this:
+
+- Right click on the extension icon (currently a "P")
+- Select "This can read and change site data", then "When you click the extension"
+- When you do that, clicking the extension icon will enable it for that page for the session
+  - You'll have to click it each time you visit a page though...
 
 ## Who's part of that selection?
 
@@ -60,6 +72,7 @@ Of Course! If it's your face, DM me on Twitter [@DustinKazi](https://twitter.com
 
 ## Future Plans
 
+- Ability to Enable/Disable on specific sites.
 - Ability to specify a single image to use rather than randomize (i.e. toggle between random and single image)
 - Ability to add custom images to local version of extension (i.e. you can add your own images but it'll only show up for yourself)
 - Figure out if the code can be further optimized (I literally wrote this in four hours pls forgive lol)
