@@ -8,6 +8,8 @@ Coded By [Faheem "DustinKazi"](https://lksg.me/u/fdquazi)
 
 - [PogChamp Universe](#pogchamp-universe)
   - [How it Works](#how-it-works)
+  - [Usage Instructions](#usage-instructions)
+    - [Installation (For now)](#installation-for-now)
     - [Make it only work when I want it!](#make-it-only-work-when-i-want-it)
   - [Who's part of that selection?](#whos-part-of-that-selection)
     - [From the Articles or Twitter feed](#from-the-articles-or-twitter-feed)
@@ -22,6 +24,20 @@ Coded By [Faheem "DustinKazi"](https://lksg.me/u/fdquazi)
 ## How it Works
 
 When you install the extension, it comes with a small selection of images. Each time the extension detects the word "PogChamp" (case-insensitive) on a page, it replaces the word with one of those images. For now, it uses the standard 28x28 pixel size when replacing text.
+
+## Usage Instructions
+
+### Installation (For now)
+
+As of right now, I'm working on getting the extension on the Chrome/New Edge/Firefox web stores, respectively. If you want to use it right now (Chrome/New Edge), follow these steps:
+
+1. Click the Green "Code" button in the top right, and click "Download ZIP"
+2. Once the ZIP has downloaded, extract it somewhere convenient
+3. Back in Chrome/Edge, Navigate to [chrome://extensions/](chrome://extensions) or [edge://extensions/](edge://extensions/), depending on your browser.
+4. Enable Developer Mode (it's a little switch either in the top right or bottom left).
+5. Select "Load Unpacked", and browse to the folder where you extracted the ZIP in step 2.
+6. ...
+7. Profit?
 
 ### Make it only work when I want it!
 
