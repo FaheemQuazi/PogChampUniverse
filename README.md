@@ -27,7 +27,7 @@ When you install the extension, it comes with a small selection of images. Each 
 
 Soon(tm), for now try this:
 
-- Right click on the extension icon (currently a "P")
+- Right click on the extension icon (currently says "PCU")
 - Select "This can read and change site data", then "When you click the extension"
 - When you do that, clicking the extension icon will enable it for that page for the session
   - You'll have to click it each time you visit a page though...
